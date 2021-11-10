@@ -12,3 +12,5 @@ https://leiser92.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Michael Leiser
+
+### ©️2019 Run Buddy, Inc
